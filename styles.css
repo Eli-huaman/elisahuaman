@@ -1,0 +1,42 @@
+
+
+    /* INICio */
+.square-box p {
+    font-size: 1rem; /* Tamaño de texto */
+    color: #0f42af; /* Color del texto */
+}
+/* Fondo verde para la sección features */
+.features {
+    background-color: #0f0e0e; /* Verde Bootstrap */
+    color: #eeecec; /* Texto blanco */
+}
+.square-box {
+    background-color: #e6e7ed; /* Fondo blanco */
+    border: 2px solid #ef0d0d; /* Borde gris claro */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Centrar el contenido */
+    box-shadow: 0 2px 10px rgba(225, 233, 5, 0.773); /* Sombra sutil */
+}
+
+
+/*producctos */
+
+.hero {
+    background-color: #b7bae6;
+    padding: 40px 0;
+    text-align: center;
+}
+.hero-content h1 {
+    font-size: 2.5rem;
+}
+.footer {
+    padding: 20px 0;
+    text-align: center;
+
+}
+.footer a {
+    color: #cfd2ea;
+    text-decoration: none;
+    margin: 0 10px;
+}
